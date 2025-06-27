@@ -20,7 +20,7 @@ This repository, **covid-clinical-trials-analysis**, contains tools and resource
   - numpy
   - matplotlib
   - seaborn
-  - scikit-learn
+
   - jupyter
 
 Install required packages using:
